@@ -22,7 +22,36 @@
 ## 👨‍💻 Who I Am
 
 <div align="center">
-
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="756" viewBox="0 0 880 756" role="img" aria-label="Who I am: Kuldeepsinh Gohil, M.Sc. IT student, aspiring software developer, open to work">
+<rect x="1" y="1" width="878" height="754" rx="14" fill="#0f172a" stroke="#7dd3fc" stroke-width="2"/>
+<rect x="1" y="1" width="878" height="46" rx="14" fill="#16233b"/>
+<rect x="1" y="30" width="878" height="17" fill="#16233b"/>
+<circle cx="28" cy="24" r="7" fill="#f87171"/><circle cx="52" cy="24" r="7" fill="#fbbf24"/><circle cx="76" cy="24" r="7" fill="#34d399"/>
+<text x="440" y="30" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="15" fill="#94a3b8">whoIAm.ts</text>
+<text x="30" y="78" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#f9a8d4">const </tspan><tspan fill="#e2e8f0">kuldeepsinh </tspan><tspan fill="#94a3b8">= {</tspan></text>
+<text x="30" y="106" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#7dd3fc">  title</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"M.Sc. IT Student | Aspiring Software Developer"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="134" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#7dd3fc">  education</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"M.Sc. IT @ MSU Baroda (Current CGPA: 6.81)"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="162" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#7dd3fc">  stack</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#a7f3d0">"Java"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"C#"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"SQL"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"MongoDB"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="190" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">           </tspan><tspan fill="#a7f3d0">"ASP.NET Core"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"JSP / Servlets"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#a7f3d0">"Figma"</tspan><tspan fill="#94a3b8">],</tspan></text>
+<text x="30" y="218" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#7dd3fc">  launchedProjects</tspan><tspan fill="#94a3b8">: [</tspan></text>
+<text x="30" y="246" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Expense Management System"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="274" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Online Voting Application"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="302" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"TruckLink (UI/UX)"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="330" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Parking Management System"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="358" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"ESP32 Push-Button and LED Prototype"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="386" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">  ],</tspan></text>
+<text x="30" y="414" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#7dd3fc">  status</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#a7f3d0">"Open to work"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="442" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#7dd3fc">  openTo</tspan><tspan fill="#94a3b8">: [</tspan></text>
+<text x="30" y="470" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Software Development internships"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="498" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Web Development internships"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="526" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Software Testing / QA"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="554" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Database roles"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="582" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"UI/UX Design"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="610" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"IT Support"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="638" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">    </tspan><tspan fill="#a7f3d0">"Entry-level Software Engineer roles"</tspan><tspan fill="#94a3b8">,</tspan></text>
+<text x="30" y="666" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">  ],</tspan></text>
+<text x="30" y="694" font-family="'Fira Code', Consolas, Menlo, monospace" font-size="17" xml:space="preserve"><tspan fill="#94a3b8">};</tspan></text>
+</svg>
 <img src="./who-i-am.svg" alt="Who I am: Kuldeepsinh Gohil, M.Sc. IT student and aspiring software developer. Stack: Java, C#, SQL, MongoDB, ASP.NET Core, JSP / Servlets, Figma. Open to work." width="100%" />
 
 </div>
